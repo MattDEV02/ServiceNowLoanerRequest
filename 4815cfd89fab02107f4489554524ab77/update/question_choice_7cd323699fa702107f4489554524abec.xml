@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>2</order>
+        <published_ref/>
+        <question display_value="When where you like to pick up this item?">74d323699fa702107f4489554524abcf</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-22 12:33:42</sys_created_on>
+        <sys_id>7cd323699fa702107f4489554524abec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Buenos Aires</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4815cfd89fab02107f4489554524ab77</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4815cfd89fab02107f4489554524ab77</sys_scope>
+        <sys_update_name>question_choice_7cd323699fa702107f4489554524abec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-22 12:33:42</sys_updated_on>
+        <text>Buenos Aires</text>
+        <value>ba</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=7cd323699fa702107f4489554524abec"/>
+</record_update>
