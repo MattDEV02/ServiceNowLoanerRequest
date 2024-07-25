@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-18 15:42:28</sys_created_on>
-        <sys_id>cba82f149f6f02107f4489554524ab84</sys_id>
         <sys_name>Location to be used</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4815cfd89fab02107f4489554524ab77</sys_package>
         <sys_policy/>
